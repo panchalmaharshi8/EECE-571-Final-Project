@@ -1,0 +1,8 @@
+mujoco
+mujoco-py
+robosuite
+gym
+torch
+torchvision
+numpy
+matplotlib
